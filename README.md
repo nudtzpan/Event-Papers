@@ -6,6 +6,7 @@ Recent literatures explore event.
 
 * [Event Causality Identification](https://github.com/nudtzpan/Event-Papers#event-causality-identification)
 * [Event Reasoning](https://github.com/nudtzpan/Event-Papers#event-reasoning)
+* [Event Temporal](https://github.com/nudtzpan/Event-Papers#event-temporal)
 
 ### Event Causality Identification
 
@@ -22,3 +23,9 @@ Recent literatures explore event.
 * ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin. ACL 2021 Full paper. HIT. [Code](https://github.com/sjcfr/xcar).
 * Learning Event Graph Knowledge for Abductive Reasoning. Li Du, Xiao Ding, Ting Liu, Bing Qin. ACL 2021 Full paper. HIT. [Code](https://github.com/sjcfr/ege-RoBERTa).
 * Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. ACL Findings 2021 Full paper. Fudan.
+
+### Event Temporal
+
+* Conditional Generation of Temporally-ordered Event Sequences. Shih-Ting Lin, Nathanael Chambers, Greg Durrett. ACL 2021 Full paper. [Code](https://github.com/jjasonn0717/TemporalBART).
+* Don't Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models. Mahnaz Koupaee, Greg Durrett, Nathanael Chambers, Niranjan Balasubramanian. ACL 2021 Short paper. HIT. [Code](https://github.com/StonyBrookNLP/elm-perturbations).
+* Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event. Nazanin Dehghani, Hassan Hajipoor, Hadi Amiri. ACL 2021 Short paper. [Code](https://github.com/hajipoor/time2event).
