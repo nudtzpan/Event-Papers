@@ -5,7 +5,7 @@ Recent literatures explore event.
 ## Overview
 
 * [Event Causality Identification](https://github.com/nudtzpan/Event-Papers#event-causality-identification)
-* [Text Ad Generation](https://github.com/THUDM/NLP4Rec-Papers#text-ad-generation)
+* [Event Reasoning](https://github.com/nudtzpan/Event-Papers#event-reasoning)
 
 ### Event Causality Identification
 
@@ -16,10 +16,9 @@ Recent literatures explore event.
 * LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification. Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng, Yuguang Chen. ACL 2021. CAS.
 * Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures. Minh Tran Phu, Thien Huu Nguyen. NAACL 2021.
 
-### Text Ad Generation
+### Event Reasoning
 
-* [Neural Rating Regression with Abstractive Tips Generation for Recommendation](https://arxiv.org/pdf/1708.00154). Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. SIGIR 2017. CUHK.
-* [Generating Better Search Engine Text Advertisements with Deep Reinforcement Learning](https://www.kdd.org/kdd2019/accepted-papers/view/generating-better-search-engine-text-advertisements-with-deep-reinforcement). John Hughes, Keng-Hao Chang and Ruofei Zhang. KDD 2019. Microsoft.
-* [Towards Knowledge-Based Personalized Product Description Generation in E-commerce](https://arxiv.org/abs/1903.12457). Qibin Chen\*, Junyang Lin\*, Yichang Zhang, Hongxia Yang, Jingren Zhou, Jie Tang. KDD 2019. Alibaba.
-* [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/abs/1908.06605). Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu. EMNLP 2019. Tsinghua.
-* [Multi-Modal Generative Adversarial Network for Short Product Title Generation in Mobile E-Commerce](https://arxiv.org/abs/1904.01735). Jian-Guo Zhang, Pengcheng Zou, Zhao Li, Yao Wan, Xiuming Pan, Yu Gong, Philip S. Yu. NAACL-HLT 2019. Alibaba.
+* ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin. ACL 2021. HIT. [Code](https://github.com/sjcfr/xcar).
+* Learning Event Graph Knowledge for Abductive Reasoning. Li Du, Xiao Ding, Ting Liu, Bing Qin. ACL 2021. HIT. [Code](https://github.com/sjcfr/ege-RoBERTa).
+* Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. ACL Findings 2021. Fudan.
+* ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations. Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng. EMNLP 2021. [Code](https://github.com/PlusLabNLP/ESTER).
