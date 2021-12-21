@@ -9,8 +9,8 @@ Recent literatures explore event.
 
 ### KG for Recommendation
 
-* [Personalized Entity Recommendation: A Heterogeneous Information Network Approach](https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/wsdm14_xyu.pdf). Xiao Yu, Xiang Ren, Yizhou Sun, Quanquan Gu, Bradley Sturt, Urvashi Khandelwal, Brandon Norick, Jiawei Han. WSDM 2014. UIUC.
-* [Collaborative Knowledge Base Embedding for Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf). Fuzheng Zhang, Nicholas Jing Yuan, Defu Lian, Xing Xie, Wei-Ying Ma. KDD 2016. Microsoft Research.
+* KnowDis: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision. Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao. COLING 2020. CAS.
+* Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations. Jian Liu, Yubo Chen, Jun Zhao. IJCAI 2020. CAS. [Code](https://github.com/jianliu-ml/EventCausalityIdentification).
 * [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](https://www.researchgate.net/profile/Quanming_Yao/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks/links/59eb9c264585151983cb73ff/Meta-Graph-Based-Recommendation-Fusion-over-Heterogeneous-Information-Networks.pdf). Huan Zhao, Quanming Yao, Jianda Li, Yangqiu Song, Dik Lun Lee. KDD 2017.
 * [Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks](https://dl.acm.org/citation.cfm?id=3210017). Jin Huang, Wayne Xin Zhao, Hongjian Dou, Ji-Rong Wen, and Edward Y. Chang. SIGIR 2018.
 * [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467). Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. CIKM 2018. SJTU.
