@@ -4,20 +4,17 @@ Recent literatures explore event.
 
 ## Overview
 
-* [KG for Recommendation](https://github.com/THUDM/NLP4Rec-Papers#kg-for-recommendation)
+* [Event Causality Identification](https://github.com/nudtzpan/Event-Papers#event-causality-identification)
 * [Text Ad Generation](https://github.com/THUDM/NLP4Rec-Papers#text-ad-generation)
 
-### KG for Recommendation
+### Event Causality Identification
 
 * KnowDis: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision. Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao. COLING 2020. CAS.
 * Knowledge Enhanced Event Causality Identification with Mention Masking Generalizations. Jian Liu, Yubo Chen, Jun Zhao. IJCAI 2020. CAS. [Code](https://github.com/jianliu-ml/EventCausalityIdentification).
-* [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](https://www.researchgate.net/profile/Quanming_Yao/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks/links/59eb9c264585151983cb73ff/Meta-Graph-Based-Recommendation-Fusion-over-Heterogeneous-Information-Networks.pdf). Huan Zhao, Quanming Yao, Jianda Li, Yangqiu Song, Dik Lun Lee. KDD 2017.
-* [Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks](https://dl.acm.org/citation.cfm?id=3210017). Jin Huang, Wayne Xin Zhao, Hongjian Dou, Ji-Rong Wen, and Edward Y. Chang. SIGIR 2018.
-* [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467). Hongwei Wang, Fuzheng Zhang, Jialin Wang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. CIKM 2018. SJTU.
-* [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://arxiv.org/pdf/1901.08907). Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, Minyi Guo. WWW 2019. SJTU.
-* [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph](https://arxiv.org/pdf/1903.03714). Weizhi Ma, Min Zhang, Yue Cao, Woojeong Jin, Chenyang Wang, Yiqun Liu, Shaoping Ma, Xiang Ren. WWW 2019.
-* [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/pdf/1905.07854). Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua. KDD 2019. NUS.
-* [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237). Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR 2019.
+* Improving Event Causality Identification via Self-Supervised Representation Learning on External Causal Statement. Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng, Yuguang Chen. ACL Findings 2021. CAS.
+* Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks. Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen, Weihua Peng. ACL 2021. CAS.
+* LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification. Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng, Yuguang Chen. ACL 2021. CAS.
+* Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures. Minh Tran Phu, Thien Huu Nguyen. NAACL 2021.
 
 ### Text Ad Generation
 
