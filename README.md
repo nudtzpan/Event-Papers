@@ -27,5 +27,5 @@ Recent literatures explore event.
 ### Event Temporal
 
 * Conditional Generation of Temporally-ordered Event Sequences. Shih-Ting Lin, Nathanael Chambers, Greg Durrett. ACL 2021 Full paper. [Code](https://github.com/jjasonn0717/TemporalBART).
-* Don't Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models. Mahnaz Koupaee, Greg Durrett, Nathanael Chambers, Niranjan Balasubramanian. ACL 2021 Short paper. HIT. [Code](https://github.com/StonyBrookNLP/elm-perturbations).
+* Don't Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models. Mahnaz Koupaee, Greg Durrett, Nathanael Chambers, Niranjan Balasubramanian. ACL 2021 Short paper. [Code](https://github.com/StonyBrookNLP/elm-perturbations).
 * Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event. Nazanin Dehghani, Hassan Hajipoor, Hadi Amiri. ACL 2021 Short paper. [Code](https://github.com/hajipoor/time2event).
