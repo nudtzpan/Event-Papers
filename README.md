@@ -1,6 +1,6 @@
 # Paper Collection of Event
 
-Recent literatures explore event.
+Recent conference papers exploring event on NLP (ACL, EMNLP, NAACL, COLING), AI (AAAI, IJCAI) and IR/DM (SIGIR, WWW, WSDM, KDD, CIKM).
 
 ## Overview
 
