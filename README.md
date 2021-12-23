@@ -37,3 +37,6 @@ Recent literatures explore event.
 * EventPlus: A Temporal Event Understanding Pipeline. Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, Rujun Han, Nanyun Peng. NAACL 2021 Full paper. [Code](https://github.com/PlusLabNLP/EventPlus).
 * Temporal Reasoning on Implicit Events from Distant Supervision. Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal, Dan Roth. NAACL 2021 Full paper. [Code](https://github.com/allenai/tracie).
 * Time-Stamped Language Model: Teaching Language Models to Understand The Flow of Events. Hossein Rajaby Faghihi, Parisa Kordjamshidi. NAACL 2021 Full paper. [Code](https://github.com/HLR/TSLM).
+* Distinguishing Between Foreground and Background Events in News. Mohammed Aldawsari, Adrián Pérez, Deya Banisakher, Mark A. Finlayson. COLING 2020 Full paper.
+* Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. Rujun Han, Yichao Zhou, Nanyun Peng. EMNLP 2020 Full paper.
+* Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events. Miguel Ballesteros, Rishita Anubhai, Shuai Wang, Nima Pourdamghani, Yogarshi Vyas, Jie Ma, Parminder Bhatia, Kathleen R. McKeown, Yaser Al-Onaizan. EMNLP 2020 Full paper.
