@@ -11,10 +11,16 @@ Recent conference papers exploring event on NLP (ACL, EMNLP, NAACL, COLING), AI 
 ### Event Reasoning
 
 * ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations. Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng. EMNLP 2021 Full paper. [Code](https://github.com/PlusLabNLP/ESTER). <details>  <summary>Details</summary>  新数据集 包含5种事件间关系 </details>
+
 * From Discourse to Narrative: Knowledge Projection for Event Relation Extraction. Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie, Jin Xu. ACL 2021 Full paper. [Code](https://github.com/TangJiaLong/Knowledge-Projection-for-ERE). <details>  <summary>Details</summary>  把Discourse里的Knowledge Project到Event Relation Extraction中（分为token-level，semantic-level以及label-level），辅助学习BERT-based Token Encoder，VAE-based Semantic Encoder以及Coarse Category Encoder。基于ASER数据集进行处理得到IERE数据集，没说Relation种类有多少。 </details>
+
 * ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin. ACL 2021 Full paper. [Code](https://github.com/sjcfr/xcar).
+
 * Learning Event Graph Knowledge for Abductive Reasoning. Li Du, Xiao Ding, Ting Liu, Bing Qin. ACL 2021 Full paper. [Code](https://github.com/sjcfr/ege-RoBERTa).
-* Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. ACL Findings 2021 Full paper.
+
+* Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. ACL Findings 2021 Full paper. <details>  <summary>Details</summary>  Event-Pair Relations 包含15中事件间关系 判断两个事件之间是什么关系 首先使用外部事件图谱训练Event Encoder，用于事件关系分析。 </details>
+
+* Joint Constrained Learning for Event-Event Relation Extraction. Haoyu Wang, Muhao Chen, Hongming Zhang, Dan Roth. EMNLP 2020 Full paper. [Code](https://github.com/CogComp/JointConstrainedLearning). <details>  <summary>Details</summary>  同时做Temporal relation extraction和Subevent relation extraction，并且使用显式的逻辑关系来进行约束学习。 </details>
 
 ### Event Causality Identification
 
