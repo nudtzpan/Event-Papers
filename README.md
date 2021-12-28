@@ -8,6 +8,15 @@ Recent conference papers exploring event on NLP (ACL, EMNLP, NAACL, COLING), AI 
 * [Event Causality Identification](https://github.com/nudtzpan/Event-Papers#event-causality-identification)
 * [Event Temporal Relation Extraction](https://github.com/nudtzpan/Event-Papers#event-temporal-relation-extraction)
 
+### Datasets
+
+* ConceptNet  大规模常识知识图谱，包含事件
+* TEMPROB 时序事件图谱
+* ASER 21ACL Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning
+* ESTER Five relations 21EMNLP ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+* TORQUE Temporal relation 20EMNLP TORQUE: A reading comprehension dataset of temporal ordering questions
+* MCTACO Temporal relation 20EMNLP “going on a vacation” takes longer than “going for a walk”: A study of temporal commonsense understanding
+
 ### Event Reasoning
 
 * ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations. Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng. EMNLP 2021 Full paper. [Code](https://github.com/PlusLabNLP/ESTER). <details>  <summary>Details</summary>  新数据集 包含5种事件间关系 </details>
