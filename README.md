@@ -4,6 +4,7 @@ Recent conference papers exploring event on NLP (ACL, EMNLP, NAACL, COLING), AI 
 
 ## Overview
 
+* [Datasets](https://github.com/nudtzpan/Event-Papers#datasets)
 * [Event Reasoning](https://github.com/nudtzpan/Event-Papers#event-reasoning)
 * [Event Causality Identification](https://github.com/nudtzpan/Event-Papers#event-causality-identification)
 * [Event Temporal Relation Extraction](https://github.com/nudtzpan/Event-Papers#event-temporal-relation-extraction)
