@@ -10,8 +10,10 @@ Recent conference papers exploring event on NLP (ACL, EMNLP, NAACL, COLING), AI 
 
 ### Event Reasoning
 
-* ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations. Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng. EMNLP 2021 Full paper. [Code](https://github.com/PlusLabNLP/ESTER). <details>  <summary>什么是iuap design</summary> iuap design 是用友网络FED团队开发的企业级应用前端集成解决方案。</details>
-* ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin. ACL 2021 Full paper. [Code](https://github.com/sjcfr/xcar). <details>  <summary>什么是iuap design</summary> iuap design 是用友网络FED团队开发的企业级应用前端集成解决方案。</details>
+* ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations. Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng. EMNLP 2021 Full paper. [Code](https://github.com/PlusLabNLP/ESTER). <details>  <summary>Details</summary>  
+新数据集 包含5种事件间关系 
+</details>
+* ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning. Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin. ACL 2021 Full paper. [Code](https://github.com/sjcfr/xcar).
 * Learning Event Graph Knowledge for Abductive Reasoning. Li Du, Xiao Ding, Ting Liu, Bing Qin. ACL 2021 Full paper. [Code](https://github.com/sjcfr/ege-RoBERTa).
 * Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. Yucheng Zhou, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. ACL Findings 2021 Full paper.
 
